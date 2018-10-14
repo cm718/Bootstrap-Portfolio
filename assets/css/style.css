@@ -56,6 +56,24 @@ img {
   margin-bottom: 5px;
 }
 
+.container {
+  max-width: 960px;
+}
+
+.container img {
+  width: 80%;
+}
+
+.col-lg, .col-lg-6 img{
+  padding: 0px;
+  margin: 0px;
+  margin-top: 20px;
+}
+
+.col-lg-6 img {
+  padding-bottom: 50px;
+}
+
 p {
   line-height: 1.5rem;
 }
